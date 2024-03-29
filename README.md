@@ -196,7 +196,7 @@ print(output_embeddings)
 
 ## Citation
 
-If you use SELUVariation in your research, please cite the following work:
+If you use AdaptiveMultiScalePositionalEncoding in your research, please cite the following work:
 
 ```bibtex
 @misc{AdaptiveMultiScalePositionalEncoding-2024,
