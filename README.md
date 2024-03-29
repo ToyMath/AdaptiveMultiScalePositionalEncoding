@@ -201,7 +201,7 @@ If you use Adaptive Multi-Scale Positional Encoding (AM-SPE) in your research, p
 ```bibtex
 @misc{AdaptiveMultiScalePositionalEncoding-2024,
   author = {Aakash Apoorv},
-  title = {AdaptiveMultiScalePositionalEncoding},
+  title = {Adaptive Multi-Scale Positional Encoding (AM-SPE)},
   year = {2024},
   howpublished = {\url{https://github.com/ToyMath/AdaptiveMultiScalePositionalEncoding}},
 }
