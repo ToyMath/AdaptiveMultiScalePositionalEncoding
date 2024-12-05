@@ -193,6 +193,8 @@ output_embeddings = am_spe_layer(input_embeddings, detail_level=0.5)
 print(output_embeddings.shape)
 print(output_embeddings)
 ```
+## Authors
+Aakash Apoorv [GitHub](https://github.com/aakashapoorv) [ORCID](https://orcid.org/0009-0003-0325-4129)
 
 ## Citation
 
